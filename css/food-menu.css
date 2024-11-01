@@ -1,0 +1,62 @@
+.full_size{width:96%;}
+.one_half{width:46%;}
+.one_third{width:30.66%;}
+.two_third{width:65.33%;}
+.one_fourth{width:22%;}
+.three_fourth{width:74%;}
+.one_fifth{width:16.8%;}
+.two_fifth{width:37.6%;}
+.three_fifth{width:58.4%;}
+.four_fifth{width:79.2%;}
+.one_sixth{width:13.33%;}
+.five_sixth{width:82.67%;}
+.custom_column{position:relative;margin:0;float:left;}
+.full_size,.one_half,.one_third,.two_third,.three_fourth,.one_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth,.one_sixth,.five_sixth{position:relative;margin-right:4%;float:left;min-height:1px;margin-bottom:0;}
+.last{margin-right:0!important;clear:right;}
+
+.menuItemTitleWrap {
+    overflow: hidden;
+}
+.menuItemTitle {
+    font-weight: normal;
+    padding-right: 6px;
+}
+.item-price-block {
+    float: right;
+    font-size: 14px;
+    margin: 11px 0 0;
+    padding: 0;
+}
+.item-price {
+    margin-right: 10px;
+}
+.menu_item_wrapper {
+    border-bottom: 1px solid;
+    clear: left;
+    margin: 0;
+    padding: 20px 0;
+}
+.menu_item_image_sm {
+    float: left;
+    margin: 0;
+    width: 115px;
+}
+h2.menu-title {
+    text-align: center;
+}
+h3.menu-title, h4.menu-title {
+    line-height: 100%;
+    margin: 0;
+}
+.food_menu_wrapper .menu_item_wrapper h3 {
+    float: left;
+    font-size: 18px;
+    margin: 10px 0 8px;
+    padding: 0;
+}
+.menu_item_wrapper h3 a {
+    text-decoration: none;
+}
+.food_menu_wrapper .menu_item_wrapper p {
+    margin-bottom: 0;
+}
